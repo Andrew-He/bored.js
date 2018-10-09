@@ -1,4 +1,4 @@
-;function(e, t, a) {
+!function(e, t, a) {
     function r() {
         for (var e = 0; e < n.length; e++) n
             [e].alpha <= 0 ? 
